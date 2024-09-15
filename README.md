@@ -1,5 +1,6 @@
 # graphic-editor
-Course project for OOP course in uni
+Course project for OOP university course.
+Graphic editor with layers and various shapes and tools such as pencil, selection, magnifier, pictures, eraser etc.
 
 <h1>Object-oriented programming</h1>
 <h2>Course project: Graphic editor</h2>
